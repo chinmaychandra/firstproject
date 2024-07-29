@@ -1,2 +1,2 @@
 # firstproject
-learning web-dev basics
+Learning web-dev basics
